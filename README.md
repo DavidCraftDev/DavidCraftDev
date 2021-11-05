@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Projekts can you find [**here**](https://github.com/SanCraftdev)
+You can find my Projekts [**here**](https://github.com/SanCraftdev)
 
 <!--
 **DavidCraftDev/DavidCraftDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
