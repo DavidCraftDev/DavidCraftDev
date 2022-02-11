@@ -2,6 +2,8 @@
 
 You can find my Projekts [**here**](https://github.com/SanCraftdev)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=2020Sanoj&count_private=true&show_icons=true&theme=dark)](https://github.com/2020Sanoj)
+
 <!--
 **DavidCraftDev/DavidCraftDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
