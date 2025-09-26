@@ -1,8 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-You can find most my Projekts [**here**](https://github.com/Zoeyvid)
+In my free time, I work on various projects or dive into for me new areas of computer science. 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCraftDev&count_private=true&show_icons=true&theme=dark)](https://github.com/DavidCraftDev)
+<details>
+  <summary>GitHub-Stats</summary>
+  <img alt="DavidCraftDev's GitHub-Stats" src="https://github-readme-stats.vercel.app/api?username=DavidCraftDev&count_private=true&show_icons=true&theme=github_dark">
+</details>
 
 <!--
 **DavidCraftDev/DavidCraftDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
