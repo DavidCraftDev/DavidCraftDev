@@ -1,6 +1,6 @@
 # Hi there 👋
 
-In my free time, I work on various projects or dive into for me new areas of computer science. 
+In my free time, I work on various projects or I dive into areas of computer science that are new to me.
 
 <details>
   <summary>GitHub-Stats</summary>
